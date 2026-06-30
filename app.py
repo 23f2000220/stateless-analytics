@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Replace EMAIL with your actual logged-in email before deploying
 API_KEY = "ak_7hie3n2wf2e2i71u4r2ixktw"
-EMAIL = "claude-agent@anthropic.com"
+EMAIL = "23f2000220@ds.study.iitm.ac.in"
 
 
 @app.after_request
